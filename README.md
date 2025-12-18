@@ -33,4 +33,11 @@ Completed as part of the **freeCodeCamp Scientific Computing with Python** certi
 ```bash
 git clone https://github.com/yourusername/mean-variance-standard-deviation.git
 
+---
+
+👩‍💻 Author
+Vishakha Tamboli Aspiring Python Developer & Data Scientist
+
+
+
 
