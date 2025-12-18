@@ -35,8 +35,9 @@ git clone https://github.com/yourusername/mean-variance-standard-deviation.git
 
 ---
 
-👩‍💻 Author
-Vishakha Tamboli Aspiring Python Developer & Data Scientist
+## Author
+
+# **VISHAKHA TAMBOLI** – Aspiring Data Scientist & Python Developer
 
 
 
